@@ -2,4 +2,6 @@ bin
 gen
 lint.xml
 .settings
-
+.idea/
+*.iml
+target/
